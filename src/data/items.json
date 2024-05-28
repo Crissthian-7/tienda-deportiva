@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Balón de fútbol Nike Strike",
+    "price": 35.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=1",
+    "description": "Balón de fútbol de alta calidad diseñado para un rendimiento óptimo en todos los niveles.",
+    "category": "Fútbol",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Zapatillas de running Adidas Ultraboost",
+    "price": 179.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=2",
+    "description": "Zapatillas de running de alto rendimiento con tecnología de amortiguación superior para una comodidad excepcional.",
+    "category": "Running",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Raqueta de tenis Babolat Pure Drive",
+    "price": 199.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=3",
+    "description": "Raqueta de tenis de gran potencia y control para jugadores de nivel intermedio y avanzado.",
+    "category": "Tenis",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Bicicleta de montaña Giant Talon",
+    "price": 599.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=4",
+    "description": "Bicicleta de montaña versátil y duradera ideal para terrenos accidentados.",
+    "category": "Ciclismo",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Guantes de boxeo Everlast Pro",
+    "price": 49.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=5",
+    "description": "Guantes de boxeo profesionales con acolchado de espuma de alta densidad para una protección superior.",
+    "category": "Boxeo",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Pantalones de yoga Nike Dri-FIT",
+    "price": 59.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=6",
+    "description": "Pantalones de yoga transpirables y de secado rápido para una comodidad óptima durante el entrenamiento.",
+    "category": "Yoga",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Raqueta de bádminton Yonex Astrox 88S",
+    "price": 129.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=7",
+    "description": "Raqueta de bádminton ligera y potente diseñada para jugadores de nivel intermedio y avanzado.",
+    "category": "Bádminton",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Pesa rusa ajustable ajustable",
+    "price": 79.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=8",
+    "description": "Pesa rusa ajustable con pesos intercambiables para una variedad de ejercicios.",
+    "category": "Fitness",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "name": "Patines en línea Rollerblade Zetrablade",
+    "price": 149.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=9",
+    "description": "Patines en línea de rendimiento con ruedas de alta calidad y un diseño cómodo.",
+    "category": "Patinaje",
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "name": "Pelota de baloncesto Spalding NBA",
+    "price": 29.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=10",
+    "description": "Pelota de baloncesto de tamaño reglamentario diseñada para un agarre superior.",
+    "category": "Baloncesto",
+    "rating": 4.0
+  }
+]
