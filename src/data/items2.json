@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Balón de fútbol Nike Strike",
+    "price": 35.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=11",
+    "description": "Balón de fútbol de alta calidad diseñado para un rendimiento óptimo en todos los niveles.",
+    "category": "Fútbol",
+    "rating": 4.5,
+    "stock": 120,
+    "brand": "Nike",
+    "color": "Blanco y negro"
+  },
+  {
+    "id": 2,
+    "name": "Zapatillas de running Adidas Ultraboost",
+    "price": 179.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=12",
+    "description": "Zapatillas de running de alto rendimiento con tecnología de amortiguación superior para una comodidad excepcional.",
+    "category": "Running",
+    "rating": 4.8,
+    "stock": 85,
+    "brand": "Adidas",
+    "color": "Negro"
+  },
+  {
+    "id": 3,
+    "name": "Raqueta de tenis Babolat Pure Drive",
+    "price": 199.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=13",
+    "description": "Raqueta de tenis de gran potencia y control para jugadores de nivel intermedio y avanzado.",
+    "category": "Tenis",
+    "rating": 4.2,
+    "stock": 60,
+    "brand": "Babolat",
+    "color": "Azul"
+  },
+  {
+    "id": 4,
+    "name": "Bicicleta de montaña Giant Talon",
+    "price": 599.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=14",
+    "description": "Bicicleta de montaña versátil y duradera ideal para terrenos accidentados.",
+    "category": "Ciclismo",
+    "rating": 4.7,
+    "stock": 30,
+    "brand": "Giant",
+    "color": "Rojo"
+  },
+  {
+    "id": 5,
+    "name": "Guantes de boxeo Everlast Pro",
+    "price": 49.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=15",
+    "description": "Guantes de boxeo profesionales con acolchado de espuma de alta densidad para una protección superior.",
+    "category": "Boxeo",
+    "rating": 4.3,
+    "stock": 200,
+    "brand": "Everlast",
+    "color": "Negro"
+  },
+  {
+    "id": 6,
+    "name": "Pantalones de yoga Nike Dri-FIT",
+    "price": 59.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=16",
+    "description": "Pantalones de yoga transpirables y de secado rápido para una comodidad óptima durante el entrenamiento.",
+    "category": "Yoga",
+    "rating": 4.6,
+    "stock": 150,
+    "brand": "Nike",
+    "color": "Gris"
+  },
+  {
+    "id": 7,
+    "name": "Raqueta de bádminton Yonex Astrox 88S",
+    "price": 129.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=17",
+    "description": "Raqueta de bádminton ligera y potente diseñada para jugadores de nivel intermedio y avanzado.",
+    "category": "Bádminton",
+    "rating": 4.4,
+    "stock": 70,
+    "brand": "Yonex",
+    "color": "Naranja"
+  },
+  {
+    "id": 8,
+    "name": "Pesa rusa ajustable ajustable",
+    "price": 79.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=18",
+    "description": "Pesa rusa ajustable con pesos intercambiables para una variedad de ejercicios.",
+    "category": "Fitness",
+    "rating": 4.9,
+    "stock": 90,
+    "brand": "Kettlebell Kings",
+    "color": "Negro"
+  },
+  {
+    "id": 9,
+    "name": "Patines en línea Rollerblade Zetrablade",
+    "price": 149.99,
+    "imgUrl": "https://loremflickr.com/640/480/deportes?random=19",
+    "description": "Patines en línea de rendimiento con ruedas de alta calidad y un diseño cómodo.",
+    "category": "Patinaje",
+    "rating": 4.1,
+    "stock": 50,
+    "brand": "Rollerblade",
+    "color": "Azul"
+  }
+]
