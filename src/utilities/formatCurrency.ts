@@ -1,5 +1,5 @@
 const CURRENCY_FORMATTER = Intl.NumberFormat(undefined, {
-  currency: "USD",
+  currency: "PEN",
   style: "currency",
 });
 

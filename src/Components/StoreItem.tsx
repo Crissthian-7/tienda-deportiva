@@ -27,7 +27,7 @@ export function StoreItem ({ id, name, price, imgUrl, description, rating, categ
       <Card.Body className='d-flex flex-column'>
         <Card.Title className='d-grip align-items-baseline mb-4 d-grip'>
           <Card.Title>{name}</Card.Title>
-          <Card.Text>
+          <Card.Text className='fs-6' style={{textTransform: 'lowercase'}}>
             {description}
           </Card.Text>
           <Card.Text>
