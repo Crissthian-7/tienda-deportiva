@@ -3,7 +3,7 @@ import img1 from "../img/football-italien-web-tete-021648790152.jpg";
 import img2 from "../img/equipment-bn.jpg";
 import img3 from "../img/RISE-with-SAP-.jpg";
 
-function DarkVariantExample() {
+function DarkVariant() {
   return (
     <Carousel data-bs-theme='light' className='position-absolute start-0 end-0'>
       <Carousel.Item>
@@ -52,4 +52,4 @@ function DarkVariantExample() {
   );
 }
 
-export default DarkVariantExample;
+export default DarkVariant;

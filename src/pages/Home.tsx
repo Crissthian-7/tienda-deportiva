@@ -1,12 +1,12 @@
 import { Col, Row } from "react-bootstrap";
-import DarkVariantExample from "../Components/Slider.tsx";
+import DarkVariant from "../Components/Slider.tsx";
 import { StoreItem } from "../Components/StoreItem.tsx";
 import storeItems2 from "../data/items2.json";
 
 export default function Home() {
   return (
     <div>
-      <DarkVariantExample />
+      <DarkVariant />
       <div
         style={{
           display: "flex",
